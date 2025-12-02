@@ -1,0 +1,24 @@
+{
+  "name": "調劑監控系統",
+  "short_name": "調劑監控",
+  "description": "藥品調劑監控顯示系統",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0C0C31",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
